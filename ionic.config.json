@@ -1,0 +1,7 @@
+{
+  "name": "Programita",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

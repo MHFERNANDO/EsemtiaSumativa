@@ -1,0 +1,387 @@
+.grades-view,
+.grades-view * {
+  box-sizing: border-box;
+}
+.grades-view {
+  background: #47ace5;
+  width: 100%;
+  height: 100vh;
+  
+  overflow: hidden;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.frame-2 {
+  width: 100%;
+  height: 6.75rem;
+  
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  overflow: hidden;
+
+  background: linear-gradient(
+    180deg,
+    rgba(34, 120, 250, 1) 58.36169123649597%,
+    rgba(84, 142, 229, 0) 92.7738904953003%
+  );
+}
+.line-1 {
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 4px 0 0 0;
+  width: 100%;
+  height: 0px;
+  position: absolute;
+  left: 17px;
+  top: 94px;
+  box-shadow: inset 0px 4px 6px 0px rgba(0, 0, 0, 0.25);
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.unidad-educativa-t-cnico-salesiano {
+  color: #ffffff;
+  text-align: center;
+  font: 400 24px "Inter", sans-serif;
+  width: 100%;
+  height: 2.813rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.frame-3 {
+  width: 100%;
+  height: 4.313rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  background: rgba(255, 255, 255, 0.74);
+}
+
+.rectangle-20 {
+  background: #ffffff;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 40%;
+  height: 2rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.rectangle-21 {
+
+background: #ffffff;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  margin: 0.3rem;
+    width: 40%;
+    height: 2rem;
+  overflow: visible;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.aporte-1 {
+  color: #000000;
+  text-align: left;
+  font: 400 20px "Inter", sans-serif;
+  
+  width: 135px;
+  height: 23px;
+}
+._2023-2024 {
+  color: #000000;
+  text-align: left;
+  font: 400 20px "Inter", sans-serif;
+  
+  width: 135px;
+  height: 23px;
+}
+.mingcute-down-fill {
+  width: 24px;
+  height: 24px;
+  
+  overflow: hidden;
+}
+.group {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.mingcute-down-fill2 {
+  width: 24px;
+  height: 24px;
+  
+  overflow: hidden;
+}
+.group2 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.mingcute-down-fill3 {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 157px;
+  top: 69px;
+  overflow: hidden;
+}
+.frame-4 {
+  border-radius: 22px;
+  opacity: 0.7099999785423279;
+  width: 373px;
+  height: 60px;
+  position: absolute;
+  left: 1px;
+  top: 743px;
+  overflow: hidden;
+}
+.rectangle-11 {
+  background: #ffffff;
+  width: 93px;
+  height: 60px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.rectangle-14 {
+  background: #ffffff;
+  width: 93px;
+  height: 60px;
+  position: absolute;
+  left: 282px;
+  top: 0px;
+}
+.rectangle-13 {
+  background: #ffffff;
+  width: 93px;
+  height: 60px;
+  position: absolute;
+  left: 188px;
+  top: 0px;
+}
+.rectangle-12 {
+  background: #ffffff;
+  width: 93px;
+  height: 60px;
+  position: absolute;
+  left: 94px;
+  top: 0px;
+}
+.ooui-message {
+  position: absolute;
+  left: 309px;
+  top: 16px;
+  overflow: visible;
+}
+.material-symbols-home {
+  position: absolute;
+  left: 28px;
+  top: 15px;
+  overflow: visible;
+}
+.gg-notes {
+  width: 38px;
+  height: 34px;
+  position: absolute;
+  left: 122px;
+  top: 14px;
+  overflow: hidden;
+}
+.group3 {
+  position: absolute;
+  left: 3.17px;
+  top: 1.42px;
+  overflow: visible;
+}
+.line-2 {
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1px 0 0 0;
+  width: 100%;
+  height: 0px;
+  position: absolute;
+  left: 0px;
+  top: 731.5px;
+}
+.ph-warning-light {
+  position: absolute;
+  left: 209px;
+  top: 748px;
+  overflow: visible;
+}
+.frame-6 {
+  width: 100%;
+  height: 529px;
+  display: flex;
+  flex-direction:column;
+  align-items: center;
+  overflow: hidden;
+}
+.rectangle-15 {
+  background: rgba(255, 255, 255, 0.49);
+  border-radius: 25px;
+  width: 100%;
+  height: 32.5;
+  position: absolute;
+  left: -8px;
+  top: 0px;
+}
+.rectangle-17 {
+    background: #ffffff;
+    width: 100%;
+    height: 54px;
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    justify-content: left;
+}
+.rectangle-19 {
+    background: #ffffff;
+    width: 100%;
+    height: 54px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.rectangle-18 {
+    background: #ffffff;
+    width: 100%;
+    height: 54px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0.5rem;
+}
+.rectangle-16 {
+  background: #ffffff;
+  width: 100%;
+  height: 54px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0.5rem;
+}
+.matem-ticas {
+  color: #000000;
+  text-align: left;
+  font: 400 26px "Inter", sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 216px;
+  height: 2.625rem;
+}
+.programaci-n-m-vil {
+  color: #000000;
+  text-align: left;
+  font: 400 26px "Inter", sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  height: 2.625rem;
+}
+.ingl-s {
+  color: #000000;
+  text-align: left;
+  font: 400 26px "Inter", sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 216px;
+  height: 32px;
+}
+.religi-n {
+  color: #000000;
+  text-align: left;
+  font: 400 26px "Inter", sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 216px;
+  height: 32px;
+}
+.lengua-y-literatura {
+  color: #000000;
+  text-align: center;
+  font: 400 26px "Inter", sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  height: 32px;
+}
+.qu-mica {
+  color: #000000;
+  text-align: left;
+  font: 400 26px "Inter", sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 216px;
+  height: 32px;
+}
+.fisica {
+  color: #000000;
+  text-align: left;
+  font: 400 26px "Inter", sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 216px;
+  height: 32px;
+}
+.vector11 {
+  position: absolute;
+  left: 321px;
+  top: 26px;
+  overflow: visible;
+}
+.vector12 {
+  position: absolute;
+  left: 321px;
+  top: 438px;
+  overflow: visible;
+}
+.vector13 {
+  position: absolute;
+  left: 321px;
+  top: 368px;
+  overflow: visible;
+}
+.vector14 {
+  position: absolute;
+  left: 321px;
+  top: 294px;
+  overflow: visible;
+}
+.vector15 {
+  position: absolute;
+  left: 321px;
+  top: 229px;
+  overflow: visible;
+}
+.vector16 {
+  position: absolute;
+  left: 321px;
+  top: 93px;
+  overflow: visible;
+}
+.vector17 {
+  position: absolute;
+  left: 321px;
+  top: 162px;
+  overflow: visible;
+}

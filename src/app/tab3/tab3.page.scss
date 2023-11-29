@@ -1,0 +1,151 @@
+.message-view,
+.message-view * {
+    box-sizing: border-box;
+}
+.message-view {
+  background: #47ace5;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  overflow: hidden;
+}
+.frame-2 {
+    background: linear-gradient(
+        180deg,
+        rgba(34, 120, 250, 1) 58.36169123649597%,
+        rgba(84, 142, 229, 0) 92.7738904953003%
+      );
+    width: 100%;
+    height: 6.75rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    overflow: hidden;
+    justify-content: center;
+}
+
+.line-1 {
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 4px 0 0 0;
+  width: 100%;
+  height: 0px;
+  position: absolute;
+  left: 17px;
+  top: 94px;
+  box-shadow: inset 0px 4px 6px 0px rgba(0, 0, 0, 0.25);
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.unidad-educativa-t-cnico-salesiano {
+  color: #ffffff;
+  text-align: center;
+  font: 400 24px "Inter", sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 342px;
+  height: 45px;
+}
+.frame-3 {
+  width: 100%;
+  height: 4.575rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  overflow: hidden;
+  background: rgba(255, 255, 255, 0.83);
+}
+
+.rectangle-9 {
+  background: #2278fa;
+  border-radius: 22px;
+  width: 30%;
+  height: 4.063rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0.5rem;
+}
+.rectangle-10 {
+  background: #2278fa;
+  border-radius: 22px;
+  width: 30%;
+  height: 4.063rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0.5rem;
+}
+.rectangle-8 {
+  background: #2278fa;
+  border-radius: 22px;
+  width: 30%;
+  height: 4.063rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0.5rem;
+}
+.redactar {
+  color: #ffffff;
+  text-align: center;
+  font: 400 24px "Inter", sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.recibir {
+  color: #ffffff;
+  text-align: center;
+  font: 400 24px "Inter", sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.mensajes {
+  color: #ffffff;
+  text-align: center;
+  font: 400 24px "Inter", sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  
+}
+.line-2 {
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1px 0 0 0;
+  width: 100%;
+  height: 0px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  
+}
+.frame-6 {
+  width: 100%;
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  overflow: hidden;
+  justify-content: left;
+
+  background: rgba(255, 255, 255, 0.49);
+}
+
+.aun-no-se-han-recibido-mensajes {
+  color: rgba(0, 0, 0, 0.44);
+  text-align: left;
+  font: 400 20px "Inter", sans-serif;
+  flex-direction: column;
+  align-items: center;
+  overflow: hidden;
+  width: 312px;
+  height: 45px;
+  margin: 0,5rem;
+}
